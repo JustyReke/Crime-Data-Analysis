@@ -53,14 +53,14 @@ Used Power Query to preprocess and standardize the crime dataset, ensuring data 
 
 [Dataset after cleaning](![Screenshot 2025-02-16 141111](https://github.com/user-attachments/assets/02b25e11-9f95-4241-8d41-4a10de54f689)
 
-Data Modeling;
+- Data Modeling;
 Built a well-structured data model to enable efficient analysis.
 
-Measures and Calculated Columns;
+- Measures and Calculated Columns;
 Leveraged DAX (Data Analysis Expressions) to derive deeper insights.
 Created measures and calculated columns to compute key metrics and performance indicators.
 
-Report Development;
+- Report Development;
 Well Designed and interactive multi-dashboard report to visualize essential findings.
 
 # KEY ANALYSIS AREAS:
@@ -79,6 +79,16 @@ Examines crimes categorized by the country of occurrence.
 
 -	Monthly Crime Trend with Percentage Variance:
 Analyzes the monthly crime trend and highlights percentage variances to illustrate fluctuations.
+
+# ER DIAGRAM
+
+![Screenshot 2025-02-16 142115](https://github.com/user-attachments/assets/cc848117-0b7a-48a7-ad9b-b435248a57ab)
+
+
+# CRIME ANAYLSIS DASHBOARD:
+
+![Screenshot 2024-10-13 183253](https://github.com/user-attachments/assets/7479dd5b-f36b-4593-95a0-4a4affba2e67)
+
 
 
 
