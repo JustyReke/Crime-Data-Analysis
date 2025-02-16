@@ -4,7 +4,7 @@ This repository contains a comprehensive Power BI project dedicated to analyzing
 # IMPORTANCE OF CRIME ANALYSIS:
 Essential for maintaining law and order.
 Helps law enforcement identify crime patterns.
-Aids in planning effective crime prevention programs.
+Aids in planning effective crime prevention programs. 
 
 # PURPOSE OF CRIME DATA ANALYSIS:
 Supports police operations, including:
